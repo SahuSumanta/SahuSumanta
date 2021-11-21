@@ -72,7 +72,7 @@
     </a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahusumanta" alt="sahusumanta" /></a> </p>
+<p align="center"> <a href="https://github.com/SahuSumanta/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SahuSumanta" alt="SahuSumanta" /></a> </p>
 
 <br/>
 <br/>
