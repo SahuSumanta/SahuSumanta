@@ -1,111 +1,54 @@
- <h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
+ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Sumanta Sahu
+=============================
 
-<br/>
-<br/>
-<a align="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
-</a>
+I'm a passionate programmer from INDIA.
+---------------------------------------
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sumanta</h1>
-<h3 align="center">I'm a passionate programmer from India.</h3>
+🧠 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. 🧑‍💻I am passionate about Android Dev, Web Dev, AI&ML I enjoy learning new things.
 
- 
- ### About me :india:
- :brain: I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.<br />
- :technologist:I am passionate about Android Dev, Web Dev, AI&ML I enjoy learning new things.
- 
- 
- ## My Experiences :office:
- [@PrepBytes](https://www.prepbytes.com/campus-business-manager) Campus business Manager.<br />
- [@WhitehatJr](https://www.whitehatjr.com/) UE Intern.
- 
- 
- ## Connect With Me
- <a href="https://www.linkedin.com/in/sahusumanta/">
-  <img align="left" width="35px" src="https://img.icons8.com/color/48/000000/linkedin.png"  />
-</a>
-<a href="https://www.instagram.com/imsmsahu/">
-  <img align="left" width="35px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
-</a>
-<a href="https://twitter.com/imsmsahu">
-  <img align="left" width="35px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />
-</a>
-<a href="mailto:smsahu9@gmail.com">
-  <img align="left" width="35px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
-</a>
-<a href="https://stackoverflow.com/users/sumanta-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sumanta-sahu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sumanta_sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumanta_sahu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sumantasahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumantasahu" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@smsahu9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@smsahu9" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/smsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="smsahu" height="30" width="40" /></a>
+* 🌍  I'm based in INDIA
+* 🖥️  See my portfolio at [http://sahusumanta.github.io/](http://sahusumanta.github.io/)
+* ✉️  You can contact me at [smsahu9@gmail.com](mailto:smsahu9@gmail.com)
+* 🚀  I'm currently working on [GSSOC(Girl Script Summer of Code)](http://github.com/SahuSumanta)
+* 🧠  I'm learning Development
+* ⚡  Bugs Bugs Bugs, I don't Like Bugs, But Bug likes me, So i can't avoid.
 
+<a href="https://www.twitter.com/imsmsahu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/imsmsahu?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
+/></a><a href="https://www.github.com/SahuSumanta" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/SahuSumanta?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
 
-<br />
+### Skills
 
-<h3 align="left">Languages and Tools:(Learning)</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/plasticine/2x/visual-studio-code-2019.png" alt="vs code" width="40" height="40"/> </a> </p>
-
-
-
-
-## 📊 My Github Stats
-
-  <br/>
-  <p align="center">
-    <a href="https://github.com/SahuSumanta/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SahuSumanta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SahuSumanta/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahuSumanta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <p align="center">
-  <b>Note:</b> Under Progress ....
-  
-  <p align="center">
-    <a href="https://github.com/SahuSumanta/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SahuSumanta&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/SahuSumanta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/imsmsahu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sahusumanta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sumantasahu.sm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/imsmsahu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+<p align="center">
+<a href="http://www.github.com/SahuSumanta"><img src="https://github-readme-stats.vercel.app/api?username=SahuSumanta&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="SahuSumanta's GitHub stats" /></a>
+<a href="http://www.github.com/SahuSumanta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SahuSumanta&stroke=ef4444&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ef4444&currStreakLabel=0891b2&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+<a href="http://www.github.com/SahuSumanta"><img src="https://activity-graph.herokuapp.com/graph?username=SahuSumanta&bg_color=1c1917&color=ef4444&line=14b8a6&point=ef4444&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</p>
+
+<a href="https://github.com/SahuSumanta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahuSumanta&langs_count=10&title_color=0891b2&text_color=ef4444&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <p align="center"> <a href="https://github.com/SahuSumanta/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SahuSumanta" alt="SahuSumanta" /></a> </p>
-
-<br/>
-<br/>
-
-<a href="https://github.com/SahuSumanta/github-readme-activity-graph"><img alt="Sumanta Sahu Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SahuSumanta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
-<br/>
-<br/>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahusumanta&label=Profile%20views&color=0e75b6&style=flat" alt="sahusumanta" /> </p>
-
-<p align="left"> <a href="https://twitter.com/imsmsahu" target="blank"><img src="https://img.shields.io/twitter/follow/imsmsahu?logo=twitter&style=for-the-badge" alt="imsmsahu" /></a> </p>
-
-<div align="center">
-
+ 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
-
-#
-
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
-
-
-
-
-
-
